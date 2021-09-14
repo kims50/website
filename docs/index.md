@@ -7,3 +7,6 @@ Picture by Muhammad Mahdi Karim, GFDL <http://www.gnu.org/copyleft/fdl.html>, vi
 Don't you wish you had a cat? Actually, I **don't** want one.
 
 If you want to know more about cats, go to [the wikipedia page about cats](https://en.wikipedia.org/wiki/Cat).
+
+Learn about [Siamese cats](siamese)
+Learn about [Maine coon cats](maine)
