@@ -1,0 +1,12 @@
+menu:
+- {name: 'publications', url: '/publications'}
+- {name: 'cv', url: '/cv'}
+- {name: 'contact', url: '/contact'}
+
+social:
+- {icon: 'github', link: 'https://github.com/kims50'}
+- {icon: 'twitter', link: 'https://twitter.com/CeciliaSangEun'}
+- {icon: 'linkedin', link: 'https://linkedin.com/in/sangeun-kim'}
+
+contacts:
+- {name: 'Dr to be. Kim', title: 'Ph.D. candidate', department: 'Political Science', institution: 'Vanderbilt University', institution_address: '320 Applton Pl, US', phone: '(000) 000-0000', email: 'sangeun.kim@vanderbilt.edu', office: '320 Appleton Pl', image: 'assets/img/contact.jpg'}
