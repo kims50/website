@@ -1,5 +1,3 @@
-# My great website about cats
-
 ![a picture of a pretty cat](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Domestic_cat_felis_catus.jpg/256px-Domestic_cat_felis_catus.jpg)
 
 Picture by Muhammad Mahdi Karim, GFDL <http://www.gnu.org/copyleft/fdl.html>, via Wikimedia Commons
