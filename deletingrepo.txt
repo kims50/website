@@ -1,0 +1,4 @@
+1) github - repository remove 
+2) settings - scroll to "danger zone"  - baskaufs/website 
+3) check the respositories 
+4) add new repository 
